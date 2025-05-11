@@ -1,4 +1,4 @@
-# @saasbelt
+# @saasbelt/bootstraper
 
 To install dependencies:
 
